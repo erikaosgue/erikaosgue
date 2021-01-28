@@ -3,9 +3,7 @@
 
 ## I'm a Erika Osorio, a Full Stack Software Developer. I love writing code, working with other people on solving tough problems, and learning new things along the way.
 
-<br>
-
-#
+<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -62,6 +60,4 @@
 <a href="mailto:erikaosgue.dev@gmail.com"><img src="https://img.shields.io/badge/-erikaosgue.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/erikaosgue"><img src="https://img.shields.io/badge/-@erikaosgue-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/erikaosgue"><img src="https://img.shields.io/badge/-@erikaosgue-0a6daa?style=flat&logo=Facebook&logoColor=white"/></a>
-
 <a href="https://erikaosgue.medium.com/"><img src="https://img.shields.io/badge/-erikaosgue.Medium-05122A?style=flat&logo=medium&logoColor=white"/></a>
-</p>
