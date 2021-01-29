@@ -19,7 +19,7 @@
 #
 
 
-### 🛠 &nbsp;Languages
+### 🛠 &nbsp;Languages, Tools and Frameworks
 <br />
 
 
@@ -53,7 +53,7 @@
 </p>
 
 
-###  :speech_balloon: You Connect with Me:
+###  :speech_balloon: You can connect with Me:
 
 <p align="center">
 
