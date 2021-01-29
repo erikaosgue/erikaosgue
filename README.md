@@ -9,7 +9,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - :telescope: I like to explore new technologies and develop software solutions.
-<!-- - :seedling: I’m currently learning ... -->
 - :dancers: I’m looking to collaborate on fun and challenging projects
 - :memo: I write blogs about programming on [Medium](https://erikaosgue.medium.com/).
 - :zap: I love biking, Hiking, and play Futsala
