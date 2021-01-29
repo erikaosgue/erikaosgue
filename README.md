@@ -52,8 +52,11 @@
 </a>
 </p>
 
+#
+<br/>>
 
-###  :speech_balloon: You can connect with Me:
+###  :speech_balloon: Connect with Me:
+<br />
 
 <p align="center">
 
