@@ -51,9 +51,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erikaosgue&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br />
 
 #
-<br/>>
 
 ###  :speech_balloon: Connect with Me:
 <br />
