@@ -11,7 +11,7 @@
 - :telescope: I like to explore new technologies and develop software solutions.
 - :dancers: I’m looking to collaborate on fun and challenging projects
 - :memo: I write blogs about programming on [Medium](https://erikaosgue.medium.com/).
-- :zap: I love biking, Hiking, and play Futsala
+- :zap: I love biking, Hiking, and playing Futsal
 
 <br/>
 
