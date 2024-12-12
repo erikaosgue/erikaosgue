@@ -1,7 +1,7 @@
 
 # :wave: Hey There!                         
 
-### I'm Erika Osorio, a Full Stack Software Developer. I love writing code, working with other people on solving tough problems, and learning new things along the way.
+### I'm Erika Osorio, a Software Developer and Data Engineer. I love writing code, working with other people on solving problems, and learning new things along the way.
 
 <br />
 
